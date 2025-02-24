@@ -1,5 +1,6 @@
 #pragma once
 
+#include "macros.h"
 #include "GuiBase.h"
 #include "bakkesmod/plugin/bakkesmodplugin.h"
 #include "bakkesmod/plugin/pluginwindow.h"

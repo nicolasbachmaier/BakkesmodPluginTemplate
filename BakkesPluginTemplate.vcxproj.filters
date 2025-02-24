@@ -134,6 +134,9 @@
     <ClInclude Include="$projectname$.h">
       <Filter>Plugin\header</Filter>
     </ClInclude>
+    <ClInclude Include="macros.h">
+      <Filter>Plugin\header</Filter>
+    </ClInclude>
     <ClInclude Include="logging.h">
       <Filter>Plugin\header</Filter>
     </ClInclude>
